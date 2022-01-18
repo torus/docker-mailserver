@@ -1,0 +1,1 @@
+mail._domainkey.torus.jp torus.jp:mail:/etc/opendkim/keys/torus.jp/mail.private

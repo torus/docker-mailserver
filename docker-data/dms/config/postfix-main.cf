@@ -1,0 +1,4 @@
+recipient_delimiter = -
+message_size_limit = 52428800
+propagate_unmatched_extensions = canonical
+
