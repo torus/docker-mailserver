@@ -2,3 +2,7 @@ recipient_delimiter = -
 message_size_limit = 52428800
 propagate_unmatched_extensions = canonical
 
+# Envelope Sender Setting
+canonical_maps = regexp:/tmp/docker-mailserver/postfix-canonical
+canonical_classes = envelope_sender
+
